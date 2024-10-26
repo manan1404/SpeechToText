@@ -55,4 +55,4 @@ The project requires the following Python packages:
 - matplotlib
 - scikit-learn
 
-Refer to `requirements.txt` for exact versions.
+Refer to `requirements.txt` for exact versions of the libraries.
